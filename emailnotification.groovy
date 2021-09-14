@@ -1,0 +1,1 @@
+Text only template: ${SCRIPT, template="groovy-text.template"}
